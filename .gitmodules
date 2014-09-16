@@ -1,3 +1,9 @@
 [submodule "april"]
 	path = april
 	url = git://april.eecs.umich.edu/home/git/april.git
+[submodule "libfreenect"]
+	path = libfreenect
+	url = git://github.com/OpenKinect/libfreenect.git
+[submodule "probcog"]
+	path = probcog
+	url = git://umbrella.eecs.umich.edu/home/mininger/probcog2.git
