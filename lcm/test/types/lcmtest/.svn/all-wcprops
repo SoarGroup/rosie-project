@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/818/trunk/test/types/lcmtest
+END
+bools_t.lcm
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/817/trunk/test/types/lcmtest/bools_t.lcm
+END
+byte_array_t.lcm
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/818/trunk/test/types/lcmtest/byte_array_t.lcm
+END
+exampleconst_t.lcm
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/814/trunk/test/types/lcmtest/exampleconst_t.lcm
+END
+multidim_array_t.lcm
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/737/trunk/test/types/lcmtest/multidim_array_t.lcm
+END
+node_t.lcm
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/814/trunk/test/types/lcmtest/node_t.lcm
+END
+primitives_list_t.lcm
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/737/trunk/test/types/lcmtest/primitives_list_t.lcm
+END
+primitives_t.lcm
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/814/trunk/test/types/lcmtest/primitives_t.lcm
+END

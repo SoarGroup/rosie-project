@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/792/trunk/lcm-java/lcm/lcm
+END
+URLParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/447/trunk/lcm-java/lcm/lcm/URLParser.java
+END
+LCMSubscriber.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/363/trunk/lcm-java/lcm/lcm/LCMSubscriber.java
+END
+LCMDataInputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/484/trunk/lcm-java/lcm/lcm/LCMDataInputStream.java
+END
+TCPProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/706/trunk/lcm-java/lcm/lcm/TCPProvider.java
+END
+LCMDataOutputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/484/trunk/lcm-java/lcm/lcm/LCMDataOutputStream.java
+END
+MessageAggregator.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/447/trunk/lcm-java/lcm/lcm/MessageAggregator.java
+END
+TCPService.java
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/472/trunk/lcm-java/lcm/lcm/TCPService.java
+END
+LCMEncodable.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/441/trunk/lcm-java/lcm/lcm/LCMEncodable.java
+END
+UDPMulticastProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/503/trunk/lcm-java/lcm/lcm/UDPMulticastProvider.java
+END
+MemqProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/792/trunk/lcm-java/lcm/lcm/MemqProvider.java
+END
+Provider.java
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/453/trunk/lcm-java/lcm/lcm/Provider.java
+END
+LCM.java
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/792/trunk/lcm-java/lcm/lcm/LCM.java
+END
+LogFileProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/500/trunk/lcm-java/lcm/lcm/LogFileProvider.java
+END

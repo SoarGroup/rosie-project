@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/766/trunk/lcm-java/lcm/spy
+END
+LCMTypeDatabase.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/504/trunk/lcm-java/lcm/spy/LCMTypeDatabase.java
+END
+ChannelData.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/445/trunk/lcm-java/lcm/spy/ChannelData.java
+END
+ObjectPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/766/trunk/lcm-java/lcm/spy/ObjectPanel.java
+END
+SpyPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/447/trunk/lcm-java/lcm/spy/SpyPlugin.java
+END
+Spy.java
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/540/trunk/lcm-java/lcm/spy/Spy.java
+END

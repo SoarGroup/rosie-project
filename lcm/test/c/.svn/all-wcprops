@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/svn/!svn/ver/801/trunk/test/c
+END
+client.c
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/749/trunk/test/c/client.c
+END
+memq_test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/793/trunk/test/c/memq_test.cpp
+END
+eventlog_test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/801/trunk/test/c/eventlog_test.cpp
+END
+server.c
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/749/trunk/test/c/server.c
+END
+common.c
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/749/trunk/test/c/common.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/801/trunk/test/c/Makefile
+END
+common.h
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/748/trunk/test/c/common.h
+END

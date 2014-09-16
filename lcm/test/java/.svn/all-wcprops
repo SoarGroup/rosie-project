@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/792/trunk/test/java
+END
+lcm-spy.sh
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/748/trunk/test/java/lcm-spy.sh
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/748/trunk/test/java/Makefile
+END

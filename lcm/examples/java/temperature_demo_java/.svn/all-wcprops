@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/447/trunk/examples/java/temperature_demo_java
+END
+temperature_t.lcm
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/256/trunk/examples/java/temperature_demo_java/temperature_t.lcm
+END
+runme.sh
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/256/trunk/examples/java/temperature_demo_java/runme.sh
+END
+TemperatureTransmit.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/447/trunk/examples/java/temperature_demo_java/TemperatureTransmit.java
+END
+TemperatureDisplay.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/447/trunk/examples/java/temperature_demo_java/TemperatureDisplay.java
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/586/trunk/examples/csharp/temperature_t_demo
+END
+temperature_t.cs
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/586/trunk/examples/csharp/temperature_t_demo/temperature_t.cs
+END
+temperature_t_display.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/478/trunk/examples/csharp/temperature_t_demo/temperature_t_display.csproj
+END
+temperature_t_transmit.cs
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/478/trunk/examples/csharp/temperature_t_demo/temperature_t_transmit.cs
+END
+temperature_t_display.cs
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/478/trunk/examples/csharp/temperature_t_demo/temperature_t_display.cs
+END
+AssemblyInfo.cs
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/478/trunk/examples/csharp/temperature_t_demo/AssemblyInfo.cs
+END
+temperature_t_transmit.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/478/trunk/examples/csharp/temperature_t_demo/temperature_t_transmit.csproj
+END

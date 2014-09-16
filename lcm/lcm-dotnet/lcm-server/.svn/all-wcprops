@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/474/trunk/lcm-dotnet/lcm-server
+END
+Program.cs
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/474/trunk/lcm-dotnet/lcm-server/Program.cs
+END
+lcm-server.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/469/trunk/lcm-dotnet/lcm-server/lcm-server.csproj
+END
+AssemblyInfo.cs
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/469/trunk/lcm-dotnet/lcm-server/AssemblyInfo.cs
+END

@@ -1,0 +1,40 @@
+K 10
+svn:ignore
+V 262
+configure
+compile
+config.rpath
+config.guess
+config.h
+config.sub
+config.status
+Makefile.in
+config.log
+depcomp
+ltmain.sh
+ABOUT-NLS
+Makefile
+mkinstalldirs
+libcam.spec
+stamp-h1
+config.h.in
+libtool
+autom4te.cache
+missing
+aclocal.m4
+install-sh
+gtk-doc.make
+py-compile
+
+K 13
+svn:mergeinfo
+V 210
+/branches/buffers:533-542
+/branches/cpp:491-564
+/branches/csharp:425-468
+/branches/doxygen:569-582
+/branches/lua:708-711
+/branches/memq:787-791
+/branches/multiport_udp_multicast:762-770
+/branches/py-win:639-642
+END

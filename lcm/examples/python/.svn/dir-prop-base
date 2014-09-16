@@ -1,0 +1,11 @@
+K 10
+svn:ignore
+V 64
+exlcm
+*.pyc
+Makefile
+Makefile.in
+example_t.py
+example_list_t.py
+
+END

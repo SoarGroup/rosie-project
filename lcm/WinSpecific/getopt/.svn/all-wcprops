@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/732/trunk/WinSpecific/getopt
+END
+getopt_long.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/421/trunk/WinSpecific/getopt/getopt_long.h
+END
+getopt.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/421/trunk/WinSpecific/getopt/getopt.h
+END
+getopt_long.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/421/trunk/WinSpecific/getopt/getopt_long.c
+END
+getopt.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/421/trunk/WinSpecific/getopt/getopt.c
+END
+getopt.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/732/trunk/WinSpecific/getopt/getopt.vcproj
+END

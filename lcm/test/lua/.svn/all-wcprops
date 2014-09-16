@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/805/trunk/test/lua
+END
+client.lua
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/712/trunk/test/lua/client.lua
+END
+cleanup.sh
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/712/trunk/test/lua/cleanup.sh
+END
+gen-types.sh
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/737/trunk/test/lua/gen-types.sh
+END

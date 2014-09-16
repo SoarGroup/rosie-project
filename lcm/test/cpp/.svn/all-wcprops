@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/796/trunk/test/cpp
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/793/trunk/test/cpp/Makefile
+END
+common.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/748/trunk/test/cpp/common.hpp
+END
+client.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/749/trunk/test/cpp/client.cpp
+END
+memq_test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/796/trunk/test/cpp/memq_test.cpp
+END
+common.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/748/trunk/test/cpp/common.cpp
+END

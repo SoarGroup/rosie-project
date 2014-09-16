@@ -1,0 +1,34 @@
+1.  Update NEWS
+2.  Bump the version number in:
+  a. configure.in at the line AM_INIT_AUTOMAKE(lcm, x.y.z)
+  b. lcm-python/setup.py
+  c. lcm/lcm.h
+3.  Update the AGE, REVISION, and CURRENT variables.  See configure.in
+      comments for details.
+4.  After committing, check out a clean copy of the repository:
+      svn co https://lcm.googlecode.com/svn/trunk lcm-rel
+5.  autoreconf -i
+6.  ./configure
+7. make
+8. make distcheck
+9. Fix any errors that appear in step 10, and repeat as necessary.
+10. Take the resulting tarball, extract it, build it, install it, make sure
+    the basic executables run.
+11. Upload the tarball to the Google Drive folder.
+12. Make sure the outstanding changes are commited to SVN.
+13. Update the web site
+
+14. Build main docs
+  $ cd docs
+  $ doxygen
+  $ copy built docs to www/reference/lcm in the Google Code SVN dir.
+15. Update any mime types if necessary:
+      find . -name "*.html" -exec svn propset svn:mime-type text/html {} \;
+      find . -name "*.css" -exec svn propset svn:mime-type text/css {} \;
+      find . -name "*.js" -exec svn propset svn:mime-type text/javascript {} \;
+      find . -name "*.png" -exec svn propset svn:mime-type image/png {} \;
+16. Build Python docs
+  $ cd lcm-python
+  $ epydoc --config epydoc.cfg
+  $ copy built docs to www/reference/lcm-python in the Google Code SVN dir.
+17. Commit the docs

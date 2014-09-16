@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/701/trunk/lcm-dotnet/lcm/lcm
+END
+MessageAggregator.cs
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/474/trunk/lcm-dotnet/lcm/lcm/MessageAggregator.cs
+END
+TCPService.cs
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/701/trunk/lcm-dotnet/lcm/lcm/TCPService.cs
+END
+LCMEncodable.cs
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/485/trunk/lcm-dotnet/lcm/lcm/LCMEncodable.cs
+END
+UDPMulticastProvider.cs
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/701/trunk/lcm-dotnet/lcm/lcm/UDPMulticastProvider.cs
+END
+Provider.cs
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/474/trunk/lcm-dotnet/lcm/lcm/Provider.cs
+END
+LCM.cs
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/485/trunk/lcm-dotnet/lcm/lcm/LCM.cs
+END
+URLParser.cs
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/469/trunk/lcm-dotnet/lcm/lcm/URLParser.cs
+END
+LCMSubscriber.cs
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/474/trunk/lcm-dotnet/lcm/lcm/LCMSubscriber.cs
+END
+LCMDataInputStream.cs
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/474/trunk/lcm-dotnet/lcm/lcm/LCMDataInputStream.cs
+END
+TCPProvider.cs
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/701/trunk/lcm-dotnet/lcm/lcm/TCPProvider.cs
+END
+LCMDataOutputStream.cs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/474/trunk/lcm-dotnet/lcm/lcm/LCMDataOutputStream.cs
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/792/trunk/test/gtest
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/792/trunk/test/gtest/README
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/792/trunk/test/gtest/Makefile
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/792/trunk/test/gtest/LICENSE
+END

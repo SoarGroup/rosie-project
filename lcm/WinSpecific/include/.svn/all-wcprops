@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/692/trunk/WinSpecific/include
+END
+inttypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/443/trunk/WinSpecific/include/inttypes.h
+END
+stdint.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/443/trunk/WinSpecific/include/stdint.h
+END
