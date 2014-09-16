@@ -13,17 +13,18 @@ results on other linux distros may vary.
 
 First setup your environment variables by adding the following to ~/.bashrc
   export ROSIE_PROJ=/path/to/rosie/project
-  source $ROSIE_PROJ/envvars.sh
+  source $ROSIE_PROJ/envvars
 
 Next, load all submodules using the following:
   git submodule init
   git submodule update
 
 Next, install all prerequisties.
-  You can either use the file prereqs.sh or 
+  You can either use the file scripts/prereqs.sh or 
   install them manually
 
-Finally, run setup.sh to build all the supporting programs
+Finally, run scripts/setup.sh to build all the supporting programs
+  (You will need to put in your root password at some point)
 
 To build probcog and rosie, navigate to their respective java folders
   and build using ant

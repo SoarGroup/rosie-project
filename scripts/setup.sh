@@ -23,3 +23,7 @@ sudo ldconfig /usr/local/lib64/
 # SOAR
 cd $ROSIE_PROJ/soar
 scons
+
+# LGSOAR
+cd $ROSIE_HOME/java/language
+ant
