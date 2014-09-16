@@ -5,6 +5,10 @@
 #
 ########################################
 
+Instructions for setting up the rosie project
+These are aimed towards Ubuntu, 
+results on other linux distros may vary.
+
 1. Setup
 
 First setup your environment variables by adding the following to ~/.bashrc

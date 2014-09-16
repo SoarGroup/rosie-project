@@ -1,8 +1,6 @@
-git submodule update
-
 # LCM
 cd $LCM_HOME
-./bootstrap
+./bootstrap.sh
 ./configure
 make
 sudo make install
