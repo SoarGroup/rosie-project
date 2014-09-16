@@ -7,3 +7,6 @@
 [submodule "probcog"]
 	path = probcog
 	url = git://umbrella.eecs.umich.edu/home/mininger/probcog2.git
+[submodule "soar"]
+	path = soar
+	url = https://github.com/SoarGroup/Soar.git
