@@ -10,3 +10,6 @@
 [submodule "soar"]
 	path = soar
 	url = https://github.com/SoarGroup/Soar.git
+[submodule "rosie"]
+	path = rosie
+	url = git://github.com/InstructoSoar/rosie.git
