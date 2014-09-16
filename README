@@ -1,0 +1,62 @@
+########################################
+#
+#  Rosie Project
+#  University of Michigan
+#
+########################################
+
+1. Setup
+
+First setup your environment variables by adding the following to ~/.bashrc
+  export ROSIE_PROJ=/path/to/rosie/project
+  source $ROSIE_PROJ/envvars.sh
+
+Next, load all submodules using the following:
+  git submodule init
+  git submodule update
+
+Next, install all prerequisties.
+  You can either use the file prereqs.sh or 
+  install them manually
+
+Finally, run setup.sh to build all the supporting programs
+
+To build probcog and rosie, navigate to their respective java folders
+  and build using ant
+
+
+2. Contents
+
+LCM
+http://code.google.com/p/lcm
+
+APRIL
+http://april.eecs.umich.edu/wiki
+
+LIBFREENECT
+http://openkinect.org/wiki/Getting_Started
+
+SOAR
+http://github.com/SoarGroup/Soar/wiki
+
+PROBCOG
+https://umbrella.eecs.umich.edu/mininger/probcog2.git
+
+ROSIE
+http://github.com/InstructoSoar/Rosie/wiki
+
+
+3. Notes on git submodules
+
+Most of the projects in this folder are included as git submodules.
+Internally, they each function as a separate git repository. 
+So within the probcog folder, you can treat it like a normal git repo. 
+
+The parent repository does not track changes inside a submodule, only
+what revision each submodule is at. Thus if you update a submodule, 
+you only need to do a commit in the parent repository and it will 
+commit the new revision. When pulling in changes, you will have to run 
+'git submodule update' after merging to update the submodules. 
+
+
+
