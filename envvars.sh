@@ -1,0 +1,27 @@
+# Expecting the user to define the variable $ROSIE_PROJ to point to this folder
+
+# LCM
+export LCM_HOME=$ROSIE_PROJ/lcm
+export CLASSPATH=$CLASSPATH:/usr/local/share/java/lcm.jar
+
+# APRIL
+export APRIL_HOME=$ROSIE_PROJ/april
+export CLASSPATH=$CLASSPATH:$APRIL_HOME/java/april.jar
+export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:$APRIL_HOME/lib:$APRIL_HOME/java/jni/jgl
+alias java='java -ea -server'
+
+# PROBCOG
+export PROBCOG_HOME=$ROSIE_PROJ/probcog
+export CLASSPATH=$CLASSPATH:$PROBCOG_HOME/java/probcog.jar
+
+# SOAR
+export SOAR_HOME=$ROSIE_PROJ/soar/out
+export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:$SOAR_HOME
+export CLASSPATH=$CLASSPATH:$SOAR_HOME/java/sml.jar:$SOAR_HOME/SoarJavaDebugger.jar
+
+# ROSIE
+export ROSIE_HOME=$ROSIE_PROJ/rosie
+export CLASSPATH=$CLASSPATH:$ROSIE_HOME/java/language/lgsoar.jar:$ROSIE_HOME/java/rosie.jar
+
+
+
