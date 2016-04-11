@@ -1,9 +1,0 @@
-K 10
-svn:ignore
-V 52
-*.class
-Makefile.in
-Makefile
-classdist_noinst.stamp
-
-END
