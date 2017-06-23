@@ -21,7 +21,7 @@ export CLASSPATH=$CLASSPATH:$SOAR_HOME/java/sml.jar:$SOAR_HOME/SoarJavaDebugger.
 
 # ROSIE
 export ROSIE_HOME=$ROSIE_PROJ/rosie
-export CLASSPATH=$CLASSPATH:$ROSIE_HOME/java/language/lgsoar.jar:$ROSIE_HOME/java/rosie.jar
+export CLASSPATH=$CLASSPATH:$ROSIE_HOME/java/rosie.jar
 
 
 
