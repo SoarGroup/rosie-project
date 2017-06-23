@@ -18,4 +18,4 @@
 	url = https://github.com/lcm-proj/lcm
 [submodule "magic"]
 	path = magic
-	url = git@umbrella.eecs.umich.edu:april/magic2.git
+	url = git@umbrella.eecs.umich.edu:mininger/magic2.git
