@@ -6,13 +6,13 @@
 	url = git://github.com/OpenKinect/libfreenect.git
 [submodule "probcog"]
 	path = probcog
-	url = git@umbrella.eecs.umich.edu:mininger/probcog.git
+	url = git@github.com:amininger/probcog.git
 [submodule "soar"]
 	path = soar
-	url = https://github.com/SoarGroup/Soar.git
+	url = https://github.com/soargroup/Soar.git
 [submodule "rosie"]
 	path = rosie
-	url = https://github.com/InstructoSoar/rosie.git
+	url = https://github.com/soargroup/rosie.git
 [submodule "lcm"]
 	path = lcm
 	url = https://github.com/lcm-proj/lcm

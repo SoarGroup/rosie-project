@@ -20,38 +20,78 @@ Next, load all submodules using the following:
   git submodule update
 
 Next, install all prerequisties.
-  You can either use the file scripts/prereqs.sh or 
-  install them manually
+  There is a list of them in the file prereqs.sh
 
-Finally, run scripts/setup.sh to build all the supporting programs
-  (You will need to put in your root password at some point)
+  NOTE: we recommend using openjdk 7 for this project, 
+    april seems to have stability issues with java 8
 
-To build probcog and rosie, navigate to their respective java folders
-  and build using ant
+Build Lcm
+  cd lcm
+  mkdir build
+  cd build
+  cmake ..
+  make
+  sudo make install
+
+Build April
+  cd april/java
+  ant
+
+  If you get an error about Base64, edit the file
+    april/java/src/april/config/Config.java line 655
+    change Base64 to april.util.Base64
+
+  If you get an error about missing jni_md.h, make sure you are using java 7
+
+Build LibFreenect
+  cd libfreenect
+  mkdir build
+  cd build
+  cmake ..
+  make
+  sudo make install
+  sudo ldconfig /usr/local/lib64
+
+Build Soar
+  cd soar
+  scons all
+
+Build rosie, rosie tools, and probcog
+  either use ant (e.g. go to rosie/java and type 'ant')
+  or use the corresponding script from the scripts directory (e.g. 'build_rosie')
+
+2. Running via scripts
+
+There are a number of useful scripts in the scripts directory,
+  and should automatically be sourced by envvars
+
+run_probcog <world> (the world file will tab complete)
+build_agent <agent> (e.g. tabletop, will tab complete)
+run_rosie <agent> (e.g. tabletop, will tab complete)
 
 
-2. Contents
+3. Contents
 
 LCM
-http://code.google.com/p/lcm
+https://code.google.com/p/lcm
 
 APRIL
-http://april.eecs.umich.edu/wiki
+https://april.eecs.umich.edu/wiki
 
 LIBFREENECT
-http://openkinect.org/wiki/Getting_Started
+https://openkinect.org/wiki/Getting_Started
 
 SOAR
-http://github.com/SoarGroup/Soar/wiki
+https://github.com/SoarGroup/Soar/wiki
 
 PROBCOG
-https://umbrella.eecs.umich.edu/mininger/probcog2.git
+https://github.com/amininger/probcog
 
 ROSIE
-http://github.com/InstructoSoar/Rosie/wiki
+https://github.com/SoarGroup/Rosie
 
 
-3. Notes on git submodules
+4. Notes on git submodules
 
 Most of the projects in this folder are included as git submodules.
 Internally, they each function as a separate git repository. 
